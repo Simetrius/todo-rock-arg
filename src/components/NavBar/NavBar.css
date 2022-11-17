@@ -21,7 +21,8 @@
     font-family: '../../fonts/RockFont.ttf'
 }
 
-.menu-list{
+li{
+    
     display: flex;
     justify-content: space-between;
     margin-left: 30px;
