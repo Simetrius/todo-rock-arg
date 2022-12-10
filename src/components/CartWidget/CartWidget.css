@@ -1,5 +1,9 @@
 .menu_navbar__imagenCarrito{
     width: 70px;
+
+}
+
+.menu_navbar__carrito{
     margin-top: 15px;
-    margin-right: 40px;
+    margin-right: 100px;
 }

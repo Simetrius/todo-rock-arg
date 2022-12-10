@@ -5,6 +5,7 @@ export const data = [
         category: "discos",
         banda: "Divididos",
         precio:"$5.000",
+        stock: "14"
     },
 
     {
@@ -13,6 +14,7 @@ export const data = [
         category: "remeras",
         banda: "Rata Blanca",
         precio: "$3.000",
+        stock: "20"
     },
 
     {
@@ -20,6 +22,7 @@ export const data = [
         title: "Guitarra Fender Stratocaster",
         category: "instrumentos",
         precio: "$80.000",
+        stock: "4"
     },
 
     {
@@ -28,6 +31,7 @@ export const data = [
         category: "remeras",
         banda: "Divididos",
         precio: "$2.500",
+        stock: "15"
     },
 
     {
@@ -36,6 +40,7 @@ export const data = [
         category: "discos",
         banda: "Rata Blanca",
         precio: "$4.000",
+        stock: "6"
     },
 
     {
@@ -43,14 +48,16 @@ export const data = [
         title: "Bajo Gibson",
         category: "instrumentos",
         precio: "$70.000",
+        stock: "3"
     },
 
     {
         id:7,
-        title: "Remera - La Renga",
+        title: "Remera - Pappo",
         category: "remeras",
-        banda: "La Renga",
+        banda: "Pappo",
         precio: "$5.500",
+        stock: "25"
     },
 
     {
@@ -59,12 +66,14 @@ export const data = [
         category: "discos",
         banda: "Los Redondos",
         precio: "$7.000",
+        stock:"45"
     },
 
     {
         id:9,
         title: "Bateria kit-Base",
-        category: "remeras",
+        category: "instrumentos",
         precio: "$150.000",
+        stock: "5"
     },
 ];
