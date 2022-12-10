@@ -1,7 +1,7 @@
 E-Commerce de venta de articulos de ROCK ARGENTINO!
 Se utilizaron las librerias de bootstrap react para estilos y Firebase para generar las ordenes del compra del proyecto. 
 
-# Getting Started with Create React App
+# TODO ROCK ARGENTINO!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
